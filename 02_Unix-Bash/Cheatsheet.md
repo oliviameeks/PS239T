@@ -186,7 +186,7 @@ regular expressions
 :   FIXME
 
 relative path
-:   FIXME
+:   specifies a location starting from the current location.
 
 root directory
 :   The root directory (sometimes just the root) is the first directory in a hierarchical file system. 
